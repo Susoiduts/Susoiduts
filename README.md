@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://susoiduts.github.io/profilpic.png" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Tobias, a full-time full-stack developer 👨‍💻 </div>  
   
 
